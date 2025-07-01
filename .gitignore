@@ -1,0 +1,5 @@
+# Build artifacts
+dist/
+
+# Source files fetched from GitHub
+native/
